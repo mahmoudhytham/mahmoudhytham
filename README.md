@@ -1,98 +1,57 @@
-<img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Howdy!, I am <a href="https://github.com/mahmoudhytham">Mahmoud Hytham</a> 
-<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
-<img height="30px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-artificial-intelligence-artificial-intelligence-flat-flat-juicy-fish.png">
-</h1>
+<!-- Waving Hand GIF -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+# HI!, I'm [Mahmoud Hytham](https://github.com/mahmoudhytham) 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px"/> 
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-artificial-intelligence-artificial-intelligence-flat-flat-juicy-fish.png" width="30px"/>
 
 ---
 
-### 📬 Find me at
-[![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/mahmoudhytham)](https://github.com/mahmoudhytham)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-hytham-8712a7230/)](https://www.linkedin.com/in/mahmoud-hytham-8712a7230/)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:midohytham4@gmail.com)](mailto:midohytham4@gmail.com)  
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoudhythym/)](https://www.facebook.com/mahmoudhythym/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mahmoud_hytham4/)](https://www.instagram.com/mahmoud_hytham4/)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Engineer;Machine+Learning+%26+Deep+Learning;Problem+Solver+%7C+Python+%26+C%2B%2B;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
-### 👨‍🎓 A little about me...
-I'm an **AI Engineering Student 🎓 [@ Kafr El-Sheikh University 🇪🇬](https://kfs.edu.eg/)** specializing in Artificial Intelligence.  
-A **Tech Enthusiast 💻** passionate about AI, Machine Learning, and Software Development.  
-I enjoy building projects that integrate **Mathematics, Logic, and Programming** using **Python 🐍** and **C++ ⚡**.  
+## 👨‍💻 About Me  
+💻 I'm an **AI Engineer & Developer** passionate about **Machine Learning, Deep Learning, and Intelligent Systems**.  
+🛠 Skilled in **Python 🐍** and **C++ ⚡**, problem-solving, and applied projects.  
+🚀 Exploring **cutting-edge technologies** in AI & software engineering.  
 
 ---
 
-## ⚡️ Quick Facts
-
-- 🔭 Currently working on projects:
-  - **Logic Gate Simulator** (Python + Tkinter)  
-  - **Numerical Methods Solver** (Curve Fitting, Interpolation, Root Finding)  
-  - **Duplicate File Finder**  
-
-- 💡 I enjoy working on:
-  - 🤖 Artificial Intelligence & Machine Learning  
-  - 🖼 Logic Design & Digital Circuits  
-  - 📊 Numerical Methods & Applied Mathematics  
-  - 🛠 Problem Solving in Python & C++  
-  - 🌍 Team Projects & Collaboration (Zeus Team)  
-
-- 💬 Ask me about Python, C++, Logic Gates, AI, Numerical Methods.  
-- 📙 Exploring the future of AI Engineering & Applied Research.  
-- 🎉 Fun Fact: I ❤️ tech, problem-solving, and Sci-Fi 🚀.  
+## ⚡️ What I Do
+- 🤖 **Robotics & Intelligent Machines** – Designing and simulating smart robots & automated systems.  
+- 🔎 **Machine Learning & Information Retrieval** – Building ML models and recommendation systems.  
+- 🌐 **Embedded Network Systems (IoT)** – Real-time connected smart solutions.  
+- 📊 **Data Science** – Extracting insights & predictive analytics.  
+- 🛠 **Problem Solving in Python & C++** – Algorithms & computational challenges.  
+- 🌍 **Collaboration & Research Projects** – Team-based innovation.  
 
 ---
 
-### 🏫 Faculty of Artificial Intelligence – Kafr El-Sheikh University
-The faculty consists of **four main departments**:  
-1. **Computer Science** – Algorithms, Data Structures, OS.  
-2. **Information Technology** – Networks, Databases, Security.  
-3. **Information Systems** – Decision Support Systems, ERP.  
-4. **Artificial Intelligence** – ML, Neural Networks, Computer Vision, NLP.  
+## 🛠 Tech Stack
 
-📘 Courses I've studied or currently studying:  
-- Machine Learning & Deep Learning  
-- Data Structures & Algorithms  
-- Numerical Methods  
-- Logic Design & Digital Circuits  
-
-I'm focused on the **Artificial Intelligence Department**, while complementing it with skills from CS and IT.
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-### 🖥 My Dev Setup
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VS Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=anaconda&logoColor=white"/>  
+## 📊 GitHub Stats  
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudhytham&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhytham&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudhytham&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhytham&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+## 🌍 Let's Connect  
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-hytham-8712a7230/)](https://www.linkedin.com/in/mahmoud-hytham-8712a7230/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:midohytham4@gmail.com)](mailto:midohytham4@gmail.com)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoudhythym/)](https://www.facebook.com/mahmoudhythym/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mahmoud_hytham4/)](https://www.instagram.com/mahmoud_hytham4/)  
 
-## 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhytham&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudhytham&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudhytham&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
